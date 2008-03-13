@@ -1,3 +1,12 @@
+Version 1.2.8
+ * changed final boss from a Demilich to a Necromancer
+ * new music
+ * added Slovak translation
+ * added Hungarian translation
+
+Version 1.2.7:
+ * balancing changes
+
 Version 1.2.6:
  * added Czech translation
  * fixed signpost bug
@@ -85,3 +94,6 @@ Version 0.1.1:
  * enemy leader in The Last Straw is now named Muff Jal 
  * Help From the Settlers is now Help From the Villagers 
  * now hs an icon
+
+Version 0.1:
+ * initial release
