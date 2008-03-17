@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-01-27 19:51+0100\n"
+"POT-Creation-Date: 2008-03-17 14:05+0100\n"
 "PO-Revision-Date: 2007-12-02 17:38+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian\n"
@@ -13,35 +13,44 @@ msgstr ""
 "X-Poedit-Language: Italian\n"
 "X-Poedit-Country: ITALY\n"
 
+#. scenario
+#. campaign
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
 msgstr "L'attacco dei non-morti"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
 msgstr "Mago"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
 msgstr "(facile)"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
 msgstr "(normale)"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
 msgstr "Mago bianco"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
 msgstr "Mago della luce"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
 msgstr "(difficile)"
 
+#. campaign
 #: Attack_of_the_Undead/_main.cfg:17
 msgid ""
 "Play as a mage to protect your city from the "
@@ -49,18 +58,22 @@ msgid ""
 "(Novice level, 5 scenarios.)"
 msgstr ""
 
+#. about
 #: Attack_of_the_Undead/_main.cfg:20
 msgid "Campaign Design"
 msgstr "Progetto della campagna"
 
+#. about
 #: Attack_of_the_Undead/_main.cfg:26
 msgid "Translation"
 msgstr "Traduzione"
 
+#. scenario
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
 msgstr "Lo studente"
 
+#. part
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:39
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
@@ -69,42 +82,51 @@ msgstr ""
 "In un angolo remoto di Wesnoth, c'è una città dei maghi dove i giovani "
 "apprendisti apprendono lontano dal mondo esterno."
 
+#. part
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:42
 msgid "One day, two students, Ryan and Deven.."
 msgstr "Un giorno, due studenti, Ryan e Deven..."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:52
 msgid "Hello Deven."
 msgstr "Ciao Deven."
 
+#. message: speaker=Deven
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:56
 msgid "Hehehehee..."
 msgstr "Ehehehee..."
 
+#. message: speaker=narrator
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:66
 msgid "Suddenly Deven vanished."
 msgstr "Deven scomparve all'improvviso..."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:70
 msgid "Deven?"
 msgstr "Deven?"
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:74
 msgid "What happened?"
 msgstr "Cosa è successo?"
 
+#. objective: condition=win
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:57
 msgid "Resist until the end of the turns"
 msgstr "Resisti fino alla fine dei turni"
 
+#. objective: condition=lose
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
 msgid "Death of Ryan"
 msgstr "Morte di Ryan"
 
+#. part
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:69
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
@@ -113,6 +135,7 @@ msgstr ""
 "Due mesi dopo la misteriosa scomparsa di Deven, furono avvistate orde di non-"
 "morti dirette verso la città dei maghi..."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:79
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
@@ -121,33 +144,39 @@ msgstr ""
 "Guardate, i non-morti stanno attaccando da sud, devo respingerli finché "
 "posso."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:87
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr "Dobbiamo fuggire, c'è un villaggio a nord, forse ci possono aiutare."
 
+#. scenario
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
 msgstr "L'aiuto del villaggio"
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:57
+#. objective: condition=win
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
 msgid "Defeat the enemy leader"
 msgstr "Sconfiggi il comandante nemico"
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
+#. objective: condition=lose
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
 msgid "Death of Ben"
 msgstr "Morte di Ben"
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
+#. objective: condition=lose
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
 msgid "Turns run out"
 msgstr "Fine dei turni"
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:77
+#. part
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:81
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
@@ -155,59 +184,72 @@ msgstr ""
 "Ryan e gli altri maghi si diressero verso il villaggio a nord con i non-"
 "morti alle calcagna."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:87
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "Our home was ransacked by the undead, and now they're following us."
 msgstr ""
 "Le nostre case sono state saccheggiate dai non-morti che ora ci stanno dando "
 "la caccia."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
+#. message: speaker=Ben
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:95
 msgid "We will help you defeat them."
 msgstr "Vi aiuteremo a sconfiggerli."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:99
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid "They're gone."
 msgstr "Se ne sono andati."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
+#. message: speaker=Ben
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
 msgstr ""
 "No, i non-morti hanno attaccato anche qua e sembra che arrivino da nord."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid "For how long have they been attacking?"
 msgstr "Da quanto tempo vi stanno attaccando?"
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
+#. message: speaker=Ben
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Just recently."
 msgstr "Solo di recente."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "Hmmm..."
 msgstr "Hmmm..."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
+#. message: speaker=Ben
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "We will go north with you to defeat them."
 msgstr "Andremo a nord con voi per sconfiggerli."
 
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:127
 msgid "Thank you."
 msgstr "Grazie."
 
+#. scenario
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
 msgstr "La prova della tenebra"
 
+#. objective: condition=win
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:70
 msgid "Move Ryan to the signpost in the north"
 msgstr "Sposta Ryan al cartello a nord."
 
+#. objective: condition=win
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Defeat the enemy leaders (Bonus)"
 msgstr "Sconfiggi il comandante nemico (bonus)"
 
+#. message: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:99
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
@@ -215,54 +257,69 @@ msgstr ""
 "Guarda, stanno cercando di passare. Il nostro padrone ha detto di "
 "impedirglielo."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:103
 msgid "There are undead all about!"
 msgstr "Ci sono non-morti dappertutto!"
 
+#. message: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:107
-msgid "Yes, but we must get through here nonetheless."
+#, fuzzy
+msgid ""
+"Yes, but we must get through here nonetheless. You should surround yourself "
+"with units to protect yourself."
 msgstr "Sì, ma noi dobbiamo passare comunque."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
 msgid "We've gotten through."
 msgstr "Siamo passati."
 
+#. message: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:130
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
 msgstr "Bene, la valle da cui stanno arrivando i non-morti è qua vicino."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:142
 msgid "We have defeated them, now let us pass through here."
 msgstr "Li abbiamo sconfitti, ora andiamo avanti."
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 #: Attack_of_the_Undead/utils/deaths.cfg:10
 msgid "All is lost, the undead will destroy us!"
 msgstr "Tutto è perduto, i non-morti ci distruggeranno!"
 
+#. message: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 #: Attack_of_the_Undead/utils/deaths.cfg:24
 msgid "I will never see my village again!"
 msgstr "Non rivedrò mai più il mio villaggio."
 
+#. message: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
 msgid "I have failed!"
 msgstr "Ho fallito!"
 
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:193
 msgid "Now we will never get through..."
 msgstr "Adesso non riusciremo più a passare..."
 
+#. scenario
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
 msgstr "L'ultima goccia"
 
+#. message: speaker=Ben
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:71
 msgid "This is it."
 msgstr "Ecco."
 
+#. message: speaker=Muff Jal
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:79
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
@@ -271,15 +328,18 @@ msgstr ""
 "Quello non è più il mio nome. Sono più potente di quanto tu potrai mai "
 "diventare. Sono il maestro. Muhhhaaa! Vi schiacceremo!"
 
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:87
+#. message: speaker=Ryan
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:92
 msgid "Deven? What happened?"
 msgstr "Deven? Cosa è successo?"
 
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:91
+#. message: speaker=narrator
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:96
 msgid "And so passes Deven, once a mage."
 msgstr "Così finì Deven, una volta mago."
 
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:95
+#. message: speaker=narrator
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:100
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
@@ -287,25 +347,24 @@ msgstr ""
 "Ed è servito come monito a quel gruppo dei maghi per quello che accade "
 "quando ci si immischia con le arti oscure..."
 
-#: Attack_of_the_Undead/units/Demilich.cfg:4
-msgid "Demilich"
-msgstr "Mezzolich"
-
-#: Attack_of_the_Undead/units/Demilich.cfg:21
-msgid ""
-"After too much time dabbling with forbidden magics and dark arts, these magi "
-"have begun to pay a heavy price. Demiliches have started losing their "
-"bodies, becoming undead themselves. With time, they may become fully undead, "
-"and feared by all alike."
-msgstr ""
-"Dopo aver sperimentato per troppo tempo con la magia proibita e le arti "
-"oscure, questi magi hanno cominciato a pagare un caro prezzo. I mezzolich "
-"hanno cominciato perdere i loro corpi, diventando essi stessi non-morti. Con "
-"il tempo, possono diventare non-morti appieno e temuti da tutti."
-
+#. message: speaker=Ryan
 #: Attack_of_the_Undead/utils/deaths.cfg:35
 msgid "Noooo, they have overrun us!"
 msgstr "Noooo, ci hanno travolto!"
+
+#~ msgid "Demilich"
+#~ msgstr "Mezzolich"
+
+#~ msgid ""
+#~ "After too much time dabbling with forbidden magics and dark arts, these "
+#~ "magi have begun to pay a heavy price. Demiliches have started losing "
+#~ "their bodies, becoming undead themselves. With time, they may become "
+#~ "fully undead, and feared by all alike."
+#~ msgstr ""
+#~ "Dopo aver sperimentato per troppo tempo con la magia proibita e le arti "
+#~ "oscure, questi magi hanno cominciato a pagare un caro prezzo. I mezzolich "
+#~ "hanno cominciato perdere i loro corpi, diventando essi stessi non-morti. "
+#~ "Con il tempo, possono diventare non-morti appieno e temuti da tutti."
 
 #~ msgid "Play as a mage to protect your city from the undead."
 #~ msgstr ""
