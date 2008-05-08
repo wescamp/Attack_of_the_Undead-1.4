@@ -1,333 +1,355 @@
+# Turkish translations for Battle for Wesnoth package.
+# Copyright (C) 2008 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Attack_of_the_Undead\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:05+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2008-04-25 21:24+0200\n"
+"PO-Revision-Date: 2008-04-30 00:32+0300\n"
+"Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
+"Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#. scenario
-#. campaign
+#. [scenario]
+#. [campaign]
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "Yarı Ölülerin Saldırısı"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
-msgstr ""
+msgstr "Büyücü"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
-msgstr ""
+msgstr "(kolay)"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
-msgstr ""
+msgstr "(normal)"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
-msgstr ""
+msgstr "Ak Büyücü"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
-msgstr ""
+msgstr "Işık Büyücüsü"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
-msgstr ""
+msgstr "(zor)"
 
-#. campaign
+#. [campaign]
 #: Attack_of_the_Undead/_main.cfg:17
 msgid ""
 "Play as a mage to protect your city from the "
 "undead.                                                        \n"
 "(Novice level, 5 scenarios.)"
 msgstr ""
+"Şehrini yarı ölülerden korumak isteyen bir büyücüsün.\n"
+"\n"
+"(Acemi Düzeyi, 5 senaryo.)"
 
-#. about
+#. [about]
 #: Attack_of_the_Undead/_main.cfg:20
 msgid "Campaign Design"
-msgstr ""
+msgstr "Seferberlik Tasarımı"
 
-#. about
+#. [about]
 #: Attack_of_the_Undead/_main.cfg:26
 msgid "Translation"
-msgstr ""
+msgstr "Çeviri"
 
-#. scenario
+#. [scenario]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
-msgstr ""
+msgstr "Talebe"
 
-#. part
+#. [part]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:39
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
 "away from the outside world."
 msgstr ""
+"Wesnoth’un uzak bir yöresinde genç büyücülerin dünyadan uzakta öğrenim "
+"gördükleri bir büyücü kenti vardır."
 
-#. part
+#. [part]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:42
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "Bir gün iki öğrenci, Rayn ve Deven..."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:52
 msgid "Hello Deven."
-msgstr ""
+msgstr "Merhaba Deven."
 
-#. message: speaker=Deven
+#. [message]: speaker=Deven
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:56
 msgid "Hehehehee..."
-msgstr ""
+msgstr "Hihihihii..."
 
-#. message: speaker=narrator
+#. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:66
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "Deven anında gözden kaybolur."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:70
 msgid "Deven?"
-msgstr ""
+msgstr "Deven?"
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:74
 msgid "What happened?"
-msgstr ""
+msgstr "Ne oldu?"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:57
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Eller tükeninceye kadar dayan"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
 msgid "Death of Ryan"
-msgstr ""
+msgstr "Rayn’ın ölümü"
 
-#. part
+#. [part]
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:69
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
 "sighted coming towards the mage city..."
 msgstr ""
+"Deven’in şüpheli kayboluşunun üzerinden iki ay geçer. Büyücü kentine "
+"yaklaşmakta olan yarı ölü orduları görülür."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:79
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
 msgstr ""
+"Bak, yarı ölüler güneyden saldırıyor, onları mümkün olduğunca buraya "
+"yaklaştırmamalıyız."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:87
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
-msgstr ""
+msgstr "Kaçmalıyız. Kuzeyde bir köy var, belki bize yardım ederler."
 
-#. scenario
+#. [scenario]
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "Köylülerin Yardımı"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Düşman liderini öldür"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
 msgid "Death of Ben"
-msgstr ""
+msgstr "Ben’in ölümü"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
 msgid "Turns run out"
-msgstr ""
+msgstr "Ellerin bitmesi"
 
-#. part
+#. [part]
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:81
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
 msgstr ""
+"Rayn ve arkadaşları, arkalarında yarı ölülerle kuzeydeki köye yöneldiler."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "Evimiz yarı ölüler tarafından yağmalandı. Şimdi de bizim peşimizdeler."
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:95
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "Onları yenmenize yardım ederiz."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid "They're gone."
-msgstr ""
+msgstr "Gittiler."
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
 msgstr ""
+"Hayır, yarı ölüler buraya da saldırdı. Kuzeyden geliyorlar gibi görünüyor."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "Ne kadar zamandır saldırıyorlar?"
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Just recently."
-msgstr ""
+msgstr "Çok yeni."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hımmm..."
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "Onları yenmek için sizinle kuzeye gideceğiz."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:127
 msgid "Thank you."
-msgstr ""
+msgstr "Teşekkürler."
 
-#. scenario
+#. [scenario]
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
-msgstr ""
+msgstr "Karanlıkta Deneme"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:70
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "Rayn’ı kuzeydeki yol işaretine götür"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "Düşman liderlerini yenersen ödül var"
 
-#. message: speaker=Muff Ter
+#. [message]: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:99
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
 msgstr ""
+"Bak, geçmeye çalışıyorlar. Efendimiz geçmelerine izin vermememizi söyledi."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:103
 msgid "There are undead all about!"
-msgstr ""
+msgstr "Her yer yarı ölü kaynıyor!"
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:107
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
 msgstr ""
+"Evet, fakat ne olursa olsun geçmeliyiz. Kendini korumak için birimlerin "
+"arasında kalmalısın."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
 msgid "We've gotten through."
-msgstr ""
+msgstr "Geçtik."
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:130
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
-msgstr ""
+msgstr "Güzel, yarı ölülerin geldiği vadiye çok az yolumuz kaldı."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:142
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "Onları yendik, artık buradan gidelim."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 #: Attack_of_the_Undead/utils/deaths.cfg:10
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "Kaybettik, yarı ölüler bizi öldürecek!"
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 #: Attack_of_the_Undead/utils/deaths.cfg:24
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "Bir daha köyümü göremeyeceğim!"
 
-#. message: speaker=Muff Ter
+#. [message]: speaker=Muff Ter
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
 msgid "I have failed!"
-msgstr ""
+msgstr "Yenildim!"
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:193
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "Artık asla geçemeyeceğiz."
 
-#. scenario
+#. [scenario]
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
-msgstr ""
+msgstr "Yeter Artık"
 
-#. message: speaker=Ben
+#. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:71
 msgid "This is it."
-msgstr ""
+msgstr "İşte o."
 
-#. message: speaker=Muff Jal
+#. [message]: speaker=Muff Jal
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:79
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"Benim adım artık bu değil. Sandığınızdan daha güçlüyüm. Ben işimi bilirim. "
+"Muhahaha! Sizi ezeceğiz!"
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:92
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "Deven? Ne oldu sana?"
 
-#. message: speaker=narrator
+#. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:96
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "Böylece Deven öbür tarafa geçti."
 
-#. message: speaker=narrator
+#. [message]: speaker=narrator
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:100
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
-msgstr ""
+msgstr "Kara sanatlarla uğraşanların başına neler geldiğini gördünüz."
 
-#. message: speaker=Ryan
+#. [message]: speaker=Ryan
 #: Attack_of_the_Undead/utils/deaths.cfg:35
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Haaayııırrr, bize saldırıyorlar!"
