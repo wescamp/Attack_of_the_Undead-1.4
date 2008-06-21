@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:24+0200\n"
-"PO-Revision-Date: 2008-03-19 18:39+0200\n"
+"PO-Revision-Date: 2008-06-21 03:11+0200\n"
 "Last-Translator: Mikko Nikkilä <miccoh@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -55,6 +55,8 @@ msgid ""
 "undead.                                                        \n"
 "(Novice level, 5 scenarios.)"
 msgstr ""
+"Pelaa velhona suojellaksesi kaupunkiasi epäkuolleilta.\n"
+"(Aloittelijataso, 5 skenaariota.)"
 
 #. [about]
 #: Attack_of_the_Undead/_main.cfg:20
@@ -263,11 +265,12 @@ msgstr "Epäkuolleita on joka puolella!"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:107
-#, fuzzy
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
-msgstr "Niin on, mutta meidän täytyy päästä tästä läpi joka tapauksessa."
+msgstr ""
+"Niin on, mutta meidän täytyy päästä tästä läpi joka tapauksessa. Sinun "
+"täytyisi ympäröidä itsesi yksiköillä suojellaksesi itseäsi."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
