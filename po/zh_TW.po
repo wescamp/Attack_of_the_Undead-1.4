@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:24+0200\n"
-"PO-Revision-Date: 2008-08-10 15:33+0800\n"
+"PO-Revision-Date: 2008-08-13 01:29+0800\n"
 "Last-Translator: 楊綮銘 <steven2880@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -54,6 +54,8 @@ msgid ""
 "undead.                                                        \n"
 "(Novice level, 5 scenarios.)"
 msgstr ""
+"扮演一位法師保護您的城市免受不死族的襲擊。\n"
+"（初學者等級，五個任務）"
 
 #. [about]
 #: Attack_of_the_Undead/_main.cfg:20
@@ -248,11 +250,10 @@ msgstr "這兒四周全是不死族！"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:107
-#, fuzzy
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
-msgstr "是的，盡管如此我們仍然必須通過這裡。"
+msgstr "是的，盡管如此我們仍然必須通過這裡。可以讓士兵包著你過去。"
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
