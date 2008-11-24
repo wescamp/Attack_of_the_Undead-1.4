@@ -1,14 +1,14 @@
-# #-#-#-#-#  Wesnoth-Attack of the Undead (Battle for Wesnoth)  #-#-#-#-#
 # Danish translations for Campaign Attack of the Undead.
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
 # This file is distributed under the same license as the Battle for Wesnoth package.
-# Joe Hansen <joedalton2@yahoo.dk>, 2007.
+# Joe Hansen <joedalton2@yahoo.dk>, 2007, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-25 21:24+0200\n"
-"PO-Revision-Date: 2007-02-26 13:27+0200\n"
+"POT-Creation-Date: 2008-10-23 22:51+0200\n"
+"PO-Revision-Date: 2008-11-17 13:27+0200\n"
 "Last-Translator: Joe Hansen <dansk@dansk-gruppen.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -16,10 +16,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. [scenario]
 #. [campaign]
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
+#. [scenario]
 #: Attack_of_the_Undead/_main.cfg:9
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 msgid "Attack of the Undead"
 msgstr "De udødes angreb"
 
@@ -60,17 +60,19 @@ msgid ""
 "undead.                                                        \n"
 "(Novice level, 5 scenarios.)"
 msgstr ""
+"Spil som en troldmand der skal beskytte sin by for de "
+"udøde.                                                      \n"
+"(Let niveau, 5 scenarier.)"
 
 #. [about]
 #: Attack_of_the_Undead/_main.cfg:20
-#, fuzzy
 msgid "Campaign Design"
-msgstr "Kampagne designer"
+msgstr "Kampagnedesign"
 
 #. [about]
 #: Attack_of_the_Undead/_main.cfg:26
 msgid "Translation"
-msgstr ""
+msgstr "Oversættelse"
 
 #. [scenario]
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
@@ -123,10 +125,10 @@ msgid "Resist until the end of the turns"
 msgstr "Modstå indtil tiden er gået"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 msgid "Death of Ryan"
 msgstr "Ryans død"
 
@@ -159,22 +161,22 @@ msgid "Help From the Villagers"
 msgstr "Hjælp fra landsbybeboerne"
 
 #. [objective]: condition=win
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 msgid "Defeat the enemy leader"
 msgstr "Besejr den fjendtlige leder"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 msgid "Death of Ben"
 msgstr "Bens død"
 
 #. [objective]: condition=lose
-#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
+#: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73
 msgid "Turns run out"
 msgstr "Tiden løber ud"
 
@@ -264,11 +266,12 @@ msgstr "Der er udøde over det hele!"
 
 #. [message]: speaker=Ben
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:107
-#, fuzzy
 msgid ""
 "Yes, but we must get through here nonetheless. You should surround yourself "
 "with units to protect yourself."
-msgstr "Ja, men vi skal igennem her alligevel."
+msgstr ""
+"Ja, men vi må igennem her alligevel. Du bør omringe dig selv med enheder, så "
+"du beskytter dig selv."
 
 #. [message]: speaker=Ryan
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
@@ -289,14 +292,14 @@ msgid "We have defeated them, now let us pass through here."
 msgstr "Vi har besejret dem, lad os komme igennem."
 
 #. [message]: speaker=Ryan
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 #: Attack_of_the_Undead/utils/deaths.cfg:10
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 msgid "All is lost, the undead will destroy us!"
-msgstr "Alt er tabt, de udøde vil ødelægge os! "
+msgstr "Alt er tabt, de udøde vil knuse os!"
 
 #. [message]: speaker=Ben
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 #: Attack_of_the_Undead/utils/deaths.cfg:24
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 msgid "I will never see my village again!"
 msgstr "Jeg vil aldrig se min landsby igen!"
 
