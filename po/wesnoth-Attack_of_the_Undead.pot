@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-25 21:24+0200\n"
+"POT-Creation-Date: 2008-10-23 22:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [scenario]
 #. [campaign]
-#: ./Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4 ./Attack_of_the_Undead/_main.cfg:9
+#. [scenario]
+#: ./Attack_of_the_Undead/_main.cfg:9 ./Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 msgid "Attack of the Undead"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgid "Resist until the end of the turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61 ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65 ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
+#: ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78 ./Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61 ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 msgid "Death of Ryan"
 msgstr ""
 
@@ -134,17 +134,17 @@ msgid "Help From the Villagers"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61 ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
+#: ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44 ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 msgid "Defeat the enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69 ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
+#: ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82 ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 msgid "Death of Ben"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73 ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
+#: ./Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86 ./Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:73
 msgid "Turns run out"
 msgstr ""
 
@@ -244,12 +244,12 @@ msgid "We have defeated them, now let us pass through here."
 msgstr ""
 
 #. [message]: speaker=Ryan
-#: ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157 ./Attack_of_the_Undead/utils/deaths.cfg:10
+#: ./Attack_of_the_Undead/utils/deaths.cfg:10 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 msgid "All is lost, the undead will destroy us!"
 msgstr ""
 
 #. [message]: speaker=Ben
-#: ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171 ./Attack_of_the_Undead/utils/deaths.cfg:24
+#: ./Attack_of_the_Undead/utils/deaths.cfg:24 ./Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 msgid "I will never see my village again!"
 msgstr ""
 
